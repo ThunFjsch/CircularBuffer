@@ -2,5 +2,13 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/bin/Debug/net6.0
+/.vs
+/TestResults
+CircularBufferTest/bin/Debug/net6.0/CoverletSourceRootsMapping
+CircularBufferTest/obj/Debug/net6.0/CircularBufferTest.assets.cache
+CircularBufferTest/obj/Debug/net6.0/CircularBufferTest.GeneratedMSBuildEditorConfig.editorconfig
 /obj
+/CircularBufferTest/bin/Debug/net6.0
+/CircularBufferTest/obj
+/CircularBuffer/obj
+/CircularBuffer/bin/Debug/net6.0
